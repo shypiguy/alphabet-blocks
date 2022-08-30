@@ -22,4 +22,4 @@ The json dictionary entries each describe a block/letter configuration, and enum
 ```
 indicates there are two blocks in the set with the letters "C and "U" on their opposing sides
 ## Dependencies
-Both code modules reference the **words_dictionary.json* file from the excellent project [dwl/english-words](https://github.com/dwyl/english-words)
+Both code modules reference the **words_dictionary.json** file from the excellent project [dwl/english-words](https://github.com/dwyl/english-words)
